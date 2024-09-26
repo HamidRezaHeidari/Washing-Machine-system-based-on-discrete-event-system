@@ -1,4 +1,4 @@
-## Washing Machine system based on discrete event system (DES)
+## Washing Machine system based on discrete event system (DES) simulation on Matlab Simulink
 star if you like it ✨
 
 <p align="center">

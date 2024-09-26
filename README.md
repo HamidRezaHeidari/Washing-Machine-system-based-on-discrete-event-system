@@ -1,5 +1,5 @@
 ## Washing Machine system based on discrete event system (DES)
-# star if you like it ✨
+star if you like it ✨
 
 <p align="center">
   <img title="Fig1" height="410" src="images/1.gif">
